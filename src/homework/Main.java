@@ -23,6 +23,14 @@ public class Main {
         System.out.println(nameToNumberOccurence(list,"vasili"));
 
 
+        // 1. {a=Hi, ab=HiThere, b=There}
+
+        // 2. {a=true, b=true, c=false}
+
+        //3. {vasili=3, Peter=1, Maria=1}
+
+
+
     }
     /*
     1.  Дана Map map, написать метод, который вернет мапу, такую, что если в исходной map есть ключи ‘a’ и ‘b’,
